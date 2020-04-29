@@ -1,0 +1,4 @@
+https://api.ottolearn.io/authenticate/login \
+'accept: application/json' \
+ 'content-type: application/json' \
+ '{"organizationId":73,"username":"info@belmarkmedia.com","password":"Soteria12"}'
